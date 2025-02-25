@@ -30,3 +30,4 @@ else:
     alarm = 8
     print("Alarm is set to", alarm)
 
+# git test
